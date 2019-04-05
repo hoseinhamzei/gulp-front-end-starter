@@ -1,2 +1,1 @@
-// main sass file of app to hold all other sass files, import other sass files here
-// example: @import 'example.scss';
+all image files here will be minified and copied into 'dist/images' folder
