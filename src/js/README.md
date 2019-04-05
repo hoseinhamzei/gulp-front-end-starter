@@ -1,2 +1,1 @@
-// main sass file of app to hold all other sass files, import other sass files here
-// example: @import 'example.scss';
+all js files here will be compiled by babel and combined into main.js in 'dist' folder
