@@ -16,6 +16,7 @@ function copyHTML(cb){
 
 function copyCSS(cb){
     src(['src/style/*.css', '!src/style/style.css'])
+        .pipe(concat('libs.css'))
         .pipe(uglifycss())
         .pipe(dest('dist/'))
         .pipe(livereload());
