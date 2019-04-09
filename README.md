@@ -9,7 +9,7 @@ using this starter pack you can easily start making any html templates whitout w
  - live reload and auto compile
 
 ## installing
-1- download and extract **[THIS FILE](https://codeload.github.com/hoseinhamzei/gulp-front-end-starter/zip/master)** in any folder you like.
+1- download and extract the folder in **[THIS FILE](https://codeload.github.com/hoseinhamzei/gulp-front-end-starter/zip/master)** and rename it.
 2-start a command prompt window in that folder and run:
 
     npm install
