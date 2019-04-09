@@ -1,4 +1,3 @@
-
 # gulp-front-end-starter-pack
 using this starter pack you can easily start making any html templates whitout worrying about task managing and doing repetetive things by your self.
 ## features
@@ -25,4 +24,3 @@ image files in `src/images`
 
 2- run `gulp build` to create dist folder
 3- run `gulp start` and start editing and creating new files in above folders, they all will be processed and copied to *dist*  folder automatically.
-
